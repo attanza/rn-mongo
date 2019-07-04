@@ -1,0 +1,1 @@
+export const WARGAKU_SKIP_INTRO = "WARGAKU_SKIP_INTRO";
